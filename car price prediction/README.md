@@ -1,5 +1,5 @@
-In this project I have used the RandomForestRegressor model to predict the cost of a car based on the car data.csv.
-For predicting the I have created a html template that runs in the server.
+_In this project I have used the RandomForestRegressor model to predict the cost of a car based on the car data.csv.
+For predicting the I have created a html template that runs in the server._
 
 
 
@@ -8,7 +8,7 @@ For predicting the I have created a html template that runs in the server.
 
 
 
-This is the html page.
-It takes the input of year, showroom price etc... and makes the good cost prediction.
+_This is the html page.
+It takes the input of year, showroom price etc... and makes the good cost prediction._
 ## resource
-The dataset is taken from kaggle Vehicle dataset.
+_The dataset is taken from kaggle [Vehicle dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv)._
