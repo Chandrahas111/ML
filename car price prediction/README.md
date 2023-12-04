@@ -9,5 +9,5 @@ For predicting the I have created a html template that runs in the server.
 
 
 This is the html page.
-It takes the input of year, showroom price etc...
-and makes the good cost prediction
+It takes the input of year, showroom price etc... and makes the good cost prediction.
+The dataset is taken from kaggle Vehicle dataset.
