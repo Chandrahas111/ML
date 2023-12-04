@@ -1,5 +1,9 @@
 In this project I have used the RandomForestRegressor model to predict the cost of a car based on the car data.csv.
 For predicting the I have created a html template that runs in the server.
+
+
+
+
 ![car_price](https://github.com/Chandrahas111/ML/assets/143534361/2906fb5e-97fc-4bee-aef2-5e4e657ddcff)
 
 
