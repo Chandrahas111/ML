@@ -1,5 +1,5 @@
 _In this project I have used the RandomForestRegressor model to predict the cost of a car based on the car data.csv.
-For predicting the I have created a html template that runs in the server._
+For predicting the Ihave created a html template that runs in the server._
 
 
 
